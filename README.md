@@ -22,4 +22,4 @@ Projeto desenvolvido por membros da **Fábrica de Software IFC - Araquari** para
 # Documentação do Projeto
 
 
-Confira a documentação completa do projeto [aqui](http://nupe-documentation.surge.sh/)
+Confira a documentação completa do projeto [aqui](http://nupe.devguerreiro.com.br)
